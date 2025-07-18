@@ -1,4 +1,4 @@
-# 🔷 MoResa Project
+# 🔷 MoResa RMI Project
 
 ## 📌 Overview
 
